@@ -1,1 +1,1 @@
-# Interactive-population-map-of-volcanoes
+Interactive Volcano Population Map
